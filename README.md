@@ -1,8 +1,5 @@
 # zxing-android
 
-#Create CameraManager
+###欢迎使用
 
-#findViewById ViewfinderView
-
-# ViewfinderView set CameraManager
 
